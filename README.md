@@ -1,3 +1,4 @@
-# class-repo-exmaple-conflict
-new repo
+# Class-Repo-Example-conflicts
+New Repo
+This is Marco adding new content.
 Mrow
